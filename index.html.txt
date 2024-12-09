@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Temporary Email Service</title>
+</head>
+<body>
+  <h1>Welcome to My Temporary Email Service</h1>
+  <p>Click below to generate a temporary email address:</p>
+  <a href="https://www.1secmail.com/" target="_blank">Get Temporary Email</a>
+</body>
+</html>
